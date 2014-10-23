@@ -11,3 +11,11 @@ Adult | Baby
 ---------|---------
 cat    | kitten
 bat    | bitten
+
+_The table above shows the names of animals and their offspring_
+**Note: not an exhaustive list!**
+
+* To Add:
+  * dog
+  * frog
+  * penguin
